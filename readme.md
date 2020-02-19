@@ -1,3 +1,5 @@
+# Multi-View to Novel View
+
 This is a pytorch implementation of the paper "Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence" by Sun et al.
 
 - Project homepage: https://shaohua0116.github.io/Multiview2Novelview/
